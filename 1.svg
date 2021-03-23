@@ -1,0 +1,27 @@
+<svg width="900" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g>
+                <ellipse cx="220" cy="170" rx="60" ry="22" stroke="none" fill="rgb(255,165,0)" transform="rotate(15)" />
+                <polygon points="137,230  115,204 150,198" stroke="none" fill="rgb(255,255,255)" />
+                <ellipse cx="300" cy="298" rx="60" ry="19" stroke="none" fill="rgb(211,211,211)" />
+                <circle cx="300" cy="200" r="100" stroke="none" fill="rgb(255,165,0)" />
+                <polygon points="225,100  225,135 260,110" stroke="none" fill="rgb(255,165,0)" />
+                <polygon points="230,108  230,133 255,114" stroke="none" fill="rgb(0,0,0)" />
+                <polygon points="340,110  375,135 375,95" stroke="none" fill="rgb(255,165,0)" />
+                <polygon points="346,113  369,130 369,104" stroke="none" fill="rgb(0,0,0)" />
+                <circle cx="340" cy="175" r="40" stroke="none" fill="rgb(255,255,255)" />
+                <circle cx="350" cy="175" r="10" stroke="none" fill="rgb(0,0,0)" />
+                <circle cx="290" cy="175" r="40" stroke="none" fill="rgb(255,255,255)" />
+                <circle cx="300" cy="175" r="10" stroke="none" fill="rgb(0,0,0)" />
+                <circle cx="315" cy="215" r="13" stroke="none" fill="rgb(0,0,0)" />
+                <ellipse cx="300" cy="250" rx="17" ry="8" stroke="none" fill="rgb(220,20,60)" />
+            </g>
+            <g>
+                <ellipse cx="580" cy="298" rx="60" ry="19" stroke="none" fill="rgb(211,211,211)" />
+                <circle cx="580" cy="200" r="100" stroke="none" fill="rgb(255,215,0)" />
+                <circle cx="590" cy="175" r="40" stroke="none" fill="rgb(255,255,255)" />
+                <circle cx="540" cy="175" r="40" stroke="none" fill="rgb(255,255,255)" />
+                <circle cx="580" cy="175" r="10" stroke="none" fill="rgb(0,0,0)" />
+                <circle cx="530" cy="175" r="10" stroke="none" fill="rgb(0,0,0)" />
+                <ellipse cx="570" cy="250" rx="8" ry="17" stroke="none" fill="rgb(220,20,60)" />
+            </g>
+        </svg>
